@@ -1,0 +1,8 @@
+C:\Users\79772\source\repos\Iphone\Iphone\bin\Debug\Iphone.exe.config
+C:\Users\79772\source\repos\Iphone\Iphone\bin\Debug\Iphone.exe
+C:\Users\79772\source\repos\Iphone\Iphone\bin\Debug\Iphone.pdb
+C:\Users\79772\source\repos\Iphone\Iphone\obj\Debug\Iphone.csproj.AssemblyReference.cache
+C:\Users\79772\source\repos\Iphone\Iphone\obj\Debug\Iphone.csproj.SuggestedBindingRedirects.cache
+C:\Users\79772\source\repos\Iphone\Iphone\obj\Debug\Iphone.csproj.CoreCompileInputs.cache
+C:\Users\79772\source\repos\Iphone\Iphone\obj\Debug\Iphone.exe
+C:\Users\79772\source\repos\Iphone\Iphone\obj\Debug\Iphone.pdb
